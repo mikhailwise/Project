@@ -1,3 +1,2 @@
 # Project
-Just a project
-This is the first commit.
+Just a bunch of random stuff I am trying, wanted to share it.
